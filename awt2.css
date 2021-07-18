@@ -1,0 +1,18 @@
+ad{display: block;
+padding-bottom: 20px;
+border:  2px solid rgb(231, 221, 84);
+padding:  30px;
+border-radius : 25px;
+background-color: rgb(172, 97, 190);
+
+}
+make,model,description,seller{
+    color: rgba(145, 255, 0, 0.801);
+    font-weight:  bolder;
+    font-family:  helvetica;
+
+}
+year, color, price, city, state{
+
+    color:  rgb(0, 0, 0);
+}

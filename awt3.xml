@@ -1,0 +1,39 @@
+<!DOCTYPE student_catalog SYSTEM "awt3.dtd">
+
+<?xml-stylesheet type="text/css" href="awt3.css"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:student_catalog>
+ <xs:student>
+   <xs:name> 
+  	<xs:fname> Bintu </xs:fname>
+	<xs:lname> Raj </xs:lname>
+	<xs:mname> Rai </xs:mname>
+   </xs:name>
+   <xs:address>
+	<xs:houseno> 1001 </xs:houseno>
+	<xs:streetname> Mangalore </xs:streetname>
+	<xs:cityname> Mangalore </xs:cityname>
+	<xs:state> Karnataka </xs:state>
+   </xs:address>
+   <xs:marks> 80 </xs:marks>
+   <xs:hobbies> Dancing </xs:hobbies>
+  </xs:student>
+</xs:student_catalog>
+<xs:student_catalog>
+ <xs:student>
+   <xs:name> 
+  	<xs:fname> Chintu </xs:fname>
+	<xs:lname> Raj </xs:lname>
+	<xs:mname> Rai </xs:mname>
+   </xs:name>
+   <xs:address>
+	<xs:houseno> 1002 </xs:houseno>
+	<xs:streetname> Shayam Nagar </xs:streetname>
+	<xs:cityname> Manipal </xs:cityname>
+	<xs:state> Karnataka </xs:state>
+   </xs:address>
+   <xs:marks> 95 </xs:marks>
+   <xs:hobbies> Singing </xs:hobbies>
+  </xs:student>
+</xs:student_catalog>
+</xs:schema>

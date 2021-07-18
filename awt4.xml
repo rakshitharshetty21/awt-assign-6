@@ -1,0 +1,37 @@
+<?xml version = "1.0"?>  
+<?xml-stylesheet type = "text/xsl" href = "awt4.xsl"?>   
+<class>   
+   <employee id = "001">  
+      <firstname>Chotu</firstname>   
+      <lastname>Raj</lastname>   
+      <middlename>R</middlename>   
+      <fathername>Raj</fathername>  
+       <dob>12-07-2000</dob>
+       <city>Mangalore</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>60000</salary>
+   </employee>   
+   <employee id = "024">   
+      <firstname>Deeshu</firstname>   
+      <lastname>R</lastname>   
+      <middlename>Shetty</middlename>   
+      <fathername>Rajkumar</fathername>  
+       <dob>09-11-1999</dob>
+       <city>Mangalore</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>1230500</salary>
+   </employee>   
+   <employee id = "056">   
+      <firstname>Rachu</firstname>   
+      <lastname>R</lastname>   
+      <middlename>Shetty</middlename>   
+      <fathername>Raju</fathername>  
+       <dob>21-07-1999</dob>
+       <city>Mangalore</city>
+       <state>Karnataka</state>
+       <qualification>BCA</qualification>
+       <salary>5500</salary>
+   </employee>   
+</class>  
